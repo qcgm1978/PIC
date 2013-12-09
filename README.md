@@ -3,6 +3,12 @@ PIC
 
 @youthoverturn: @KendoUI performance , interface of machine, compatibility are the bottleneck of #HTML5 I think
 
+announcement: 
+
+@mkanat: When a software project fails, it's not because of tiny mistakes. It's because of constant, compounded, huge errors.
+
+@mkanat: The most common and constant error that software projects make is to be too lax about code complexity.
+
 best-first principle : at first, let us meet the best browser of the best device by the best method, and graceful degradation.
 
 test-related: according to testing, select the degradation range.
